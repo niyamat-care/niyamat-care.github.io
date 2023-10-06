@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Crawl-delay:3
+Sitemap:https://mikel2.digitalwise-hq.gr/index.php/sitemap.xml
+
+#WP Import Export Rule
+User-agent: *
+Disallow: /wp-content/uploads/wp-import-export-lite/
